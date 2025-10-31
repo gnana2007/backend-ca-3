@@ -1,0 +1,14 @@
+[
+  {
+    "id": "913a7320-08d4-4df5-b407-cb440d4f08f6",
+    "exercise": "Running",
+    "duration": 30,
+    "caloriesburned": 300,
+    "notes": "Felt great!",
+    "tags": ["cardio", "outdoor"],
+    "status": "completed",
+    "userId": "user1",
+    "date": "2025-10-31T03:35:26.782Z",
+    "updatedAt": "2025-10-31T03:45:52.288Z"
+  }
+]
