@@ -23,15 +23,14 @@ Authentication:
 
 Endpoints:
 - POST /api/workouts
-
 - GET /api/workouts
-  
 - PUT /api/workouts/:id
-
 - DELETE /api/workouts/:id
 
 Notes:
 - Data persisted in data/workouts.json.
 - Start script: "start": "node server.js"
 
-
+challenges faced:
+- making pdf's of the screenshots within the time provided
+- making the code work properly

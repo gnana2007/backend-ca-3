@@ -8,10 +8,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// mount routes
 app.use('/api/workouts', require('./routes/workouts'));
 
-// health check
 app.get('/ping', (req, res) => res.json({ ok: true, time: Date.now() }));
 
 const PORT = process.env.PORT || 3000;
