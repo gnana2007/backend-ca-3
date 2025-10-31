@@ -9,6 +9,7 @@ Start the server locally:
 4. Verify:
    - Visit http://localhost:<PORT>/ping
 
+github link: https://github.com/gnana2007/backend-ca-3.git
 
 
 API base URL: http://localhost:PORT/api/workouts
